@@ -1,0 +1,123 @@
+[
+    {
+      "Ingredient": "Carrot",
+      "type": "vegetables",
+      "Short text": "A great starter for your baby",
+      "imageUrl": "http://forking.riafy.in/csv-to-api/baby-led-weaning/images/Carrot.jpg"
+    },
+    {
+      "Ingredient": "Butternut Squash",
+      "type": "fruits",
+      "Short text": "The best first food",
+      "imageUrl": "http://forking.riafy.in/csv-to-api/baby-led-weaning/images/Butternut Squash.jpg"
+    },
+    {
+      "Ingredient": "Sweet Potatoes",
+      "type": "fruits",
+      "Short text": "Fully cooked & soft baby food",
+      "imageUrl": "http://forking.riafy.in/csv-to-api/baby-led-weaning/images/Sweet Potatoes.jpg"
+    },
+    {
+      "Ingredient": "Yogurt",
+      "type": "dairy",
+      "Short text": "Make baby tummies happy",
+      "imageUrl": "http://forking.riafy.in/csv-to-api/baby-led-weaning/images/Yogurt.jpg"
+    },
+    {
+      "Ingredient": "Chicken",
+      "type": "meat",
+      "Short text": "A good source of protein",
+      "imageUrl": "http://forking.riafy.in/csv-to-api/baby-led-weaning/images/Chicken.jpg"
+    },
+    {
+      "Ingredient": "Salmon",
+      "type": "fish",
+      "Short text": "A safe & healthy solid food",
+      "imageUrl": "http://forking.riafy.in/csv-to-api/baby-led-weaning/images/Salmon.jpg"
+    },
+    {
+      "Ingredient": "Melon",
+      "type": "fruits",
+      "Short text": "Rich in vitamin A & C",
+      "imageUrl": "http://forking.riafy.in/csv-to-api/baby-led-weaning/images/Melon.jpg"
+    },
+    {
+      "Ingredient": "Banana",
+      "type": "fruits",
+      "Short text": "Loaded with essential nutrients",
+      "imageUrl": "http://forking.riafy.in/csv-to-api/baby-led-weaning/images/Banana.jpg"
+    },
+    {
+      "Ingredient": "Apple",
+      "type": "fruits",
+      "Short text": "A sweet treat your baby",
+      "imageUrl": "http://forking.riafy.in/csv-to-api/baby-led-weaning/images/Apple.jpg"
+    },
+    {
+      "Ingredient": "Strawberries",
+      "type": "fruits",
+      "Short text": "Introduce mashed strawberries",
+      "imageUrl": "http://forking.riafy.in/csv-to-api/baby-led-weaning/images/Strawberries.jpg"
+    },
+    {
+      "Ingredient": "Broccoli",
+      "type": "vegetables",
+      "Short text": "A nutritious green vegetable",
+      "imageUrl": "http://forking.riafy.in/csv-to-api/baby-led-weaning/images/Broccoli.jpg"
+    },
+    {
+      "Ingredient": "Egg",
+      "type": "dairy",
+      "Short text": "A safe early food for babies",
+      "imageUrl": "http://forking.riafy.in/csv-to-api/baby-led-weaning/images/Egg.jpg"
+    },
+    {
+      "Ingredient": "Beans",
+      "type": "vegetables",
+      "Short text": "Good source of micronutrients",
+      "imageUrl": "http://forking.riafy.in/csv-to-api/baby-led-weaning/images/Beans.jpg"
+    },
+    {
+      "Ingredient": "Cauliflower",
+      "type": "vegetables",
+      "Short text": "For strong & healthy bones",
+      "imageUrl": "http://forking.riafy.in/csv-to-api/baby-led-weaning/images/Cauliflower.jpg"
+    },
+    {
+      "Ingredient": "Avocado",
+      "type": "fruits",
+      "Short text": "Serve fresh from their peels",
+      "imageUrl": "http://forking.riafy.in/csv-to-api/baby-led-weaning/images/Avocado.jpg"
+    },
+    {
+      "Ingredient": "Mango",
+      "type": "fruits",
+      "Short text": "Strengthen the immune system",
+      "imageUrl": "http://forking.riafy.in/csv-to-api/baby-led-weaning/images/Mango.jpg"
+    },
+    {
+      "Ingredient": "Potato",
+      "type": "fruits",
+      "Short text": "Energy powerhouse for babies",
+      "imageUrl": "http://forking.riafy.in/csv-to-api/baby-led-weaning/images/Potato.jpg"
+    },
+    {
+      "Ingredient": "Cereal",
+      "type": "grains",
+      "Short text": "Introduce your baby to new tastes",
+      "imageUrl": "http://forking.riafy.in/csv-to-api/baby-led-weaning/images/Cereal.jpg"
+    },
+    {
+      "Ingredient": "Blueberries",
+      "type": "fruits",
+      "Short text": "Best baby food to to self-feed",
+      "imageUrl": "http://forking.riafy.in/csv-to-api/baby-led-weaning/images/Blueberries.jpg"
+    },
+    {
+      "Ingredient": "Spinach",
+      "type": "vegetables",
+      "Short text": "An ideal veggie for babies",
+      "imageUrl": "http://forking.riafy.in/csv-to-api/baby-led-weaning/images/Spinach.jpg"
+    }
+  ]
+  
